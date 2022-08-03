@@ -1,0 +1,33 @@
+BODY{
+    margin: 0;
+    padding: 0;
+}
+nav{
+border: 10px;
+background-color: red;
+color: antiquewhite;
+display: flex;
+justify-content: space-between;
+}
+p{
+    font-size: x-large;
+}
+.sub>a:link{
+    color: white;
+}
+.sub{
+    text-align: right;
+    padding: 30px 10px 0
+}
+section{
+    padding: 0px 500px 0px 100px;
+}
+.pic{
+    float:right;
+    padding: 0px 0px 20px 20px;
+    width:400px;height: 300px;"
+
+}
+h1{
+    font-size: 3em;
+}
